@@ -1,0 +1,30 @@
+{
+  "name": "assignment-utils",
+  "version": "1.0.0",
+  "description": "Shared utilities for HackYourFuture assignments",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackYourFuture/assignment-utils.git"
+  },
+  "keywords": [],
+  "author": "Jim Cramer for HackYourFuture",
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/HackYourFuture/assignment-utils/issues"
+  },
+  "homepage": "https://github.com/HackYourFuture/assignment-utils#readme",
+  "dependencies": {
+    "acorn": "^8.14.1",
+    "acorn-walk": "^8.3.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14"
+  }
+}
